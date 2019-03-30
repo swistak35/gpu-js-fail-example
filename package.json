@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "gpu.js": "2.0.0-rc.6"
+  },
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
